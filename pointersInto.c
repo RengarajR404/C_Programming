@@ -19,9 +19,12 @@
 int main()
 {
     //Local declarations
-    char a, b;
+    int *a, b;
     int lol;
+    a = &b;
+    b = 10;
     //stmnts
     printf("%p\n%p\n%p\n", &a, &b, &lol);
+    printf("%d",*a);
     return 0;
 }
