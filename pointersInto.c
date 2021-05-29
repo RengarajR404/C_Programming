@@ -1,6 +1,6 @@
 /* 
  * @file pointersInto.c
- * @author Rengaraj R
+ * @author Rengaraj R & Sharath S R
  * @brief  My First pointers code
  * @version 0.1
  * @date 2021-05-16
